@@ -1,0 +1,16 @@
+6.   Text Files:
+
+Text files are human-readable files that store data in plain text format.
+The data in a text file consists of characters from a character set (e.g., ASCII or Unicode) and is usually encoded using a specific character encoding (e.g., UTF-8).
+Each character in a text file corresponds to a specific character code, such as 'A', '1', or '@'.
+Text files are typically used to store data that is meant to be read and interpreted by humans, such as source code, configuration files, or textual data.
+Examples of text file formats include .txt, .c, .cpp, .html, .csv, etc.
+In C programming, text files are read and written using functions like fopen, fgets, fputs, fprintf, and fscanf.
+Binary Files:
+
+Binary files store data in a raw, binary format that represents the actual internal structure of the data.
+The data in a binary file is not meant to be interpreted as characters but as a sequence of bytes.
+Binary files can store any type of data, including numbers, images, audio, video, and complex structures.
+Binary files are usually used to store data that needs to be directly processed by programs, rather than read or modified by humans.
+Examples of binary file formats include .jpg, .mp3, .avi, .dat, etc.
+In C programming, binary files are read and written using functions like fread, fwrite, fseek, ftell, etc.

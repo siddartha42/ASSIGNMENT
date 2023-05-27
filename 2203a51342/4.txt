@@ -1,0 +1,14 @@
+4.Pointer to a Structure:
+
+A pointer to a structure is used to store the memory address of a single structure variable.
+It allows access to the members of the structure using the arrow operator (->).
+It is typically used when you want to manipulate or access a single instance of a structure.
+The size of a pointer to a structure is fixed, regardless of the number of structure variables.
+Example: struct Person *personPtr;
+Pointer to an Array:
+
+A pointer to an array is used to store the memory address of the first element of an array.
+It allows access to the elements of the array using pointer arithmetic (*(ptr + i) or ptr[i]).
+It is typically used when you want to work with arrays or a contiguous block of memory.
+The size of a pointer to an array can vary depending on the size of the array.
+Example: int *arrayPtr;

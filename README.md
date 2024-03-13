@@ -1,4 +1,4 @@
-[lab-1] ()
+[lab-1] (https://github.com/siddartha42/ASSIGNMENT/new/main?filename=README.md)
 
 [lab-2] ()
 

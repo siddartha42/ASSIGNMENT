@@ -10,7 +10,7 @@
 
 [lab-6] (https://github.com/siddartha42/ASSIGNMENT/blob/main/assignment6.ipynb)
 
-[lab-7]
+[lab-7] (https://github.com/siddartha42/ASSIGNMENT/blob/main/Assignment7.ipynb)
 
 [lab-8]
 

@@ -1,6 +1,6 @@
 [lab-1] (https://github.com/siddartha42/ASSIGNMENT/new/main?filename=README.md)
 
-[lab-2] ()
+[lab-2] (https://github.com/siddartha42/ASSIGNMENT/blob/main/assignment2.ipynb)
 
 [lab-3] (https://github.com/siddartha42/ASSIGNMENT/blob/main/AIML_ASSI_3.ipynb)
 

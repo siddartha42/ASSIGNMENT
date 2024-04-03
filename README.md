@@ -9,3 +9,9 @@
 [lab-5] (https://github.com/siddartha42/ASSIGNMENT/blob/main/assignment5.ipynb)
 
 [lab-6] (https://github.com/siddartha42/ASSIGNMENT/blob/main/assignment6.ipynb)
+
+[lab-7]
+
+[lab-8]
+
+[lab-9](https://github.com/siddartha42/ASSIGNMENT/blob/main/Assignment9.ipynb)

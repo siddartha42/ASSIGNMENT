@@ -12,6 +12,8 @@
 
 [lab-7] (https://github.com/siddartha42/ASSIGNMENT/blob/main/Assignment7.ipynb)
 
-[lab-8]
+[lab-8]  https://github.com/Siddartha42/ASSIGNMENT/blob/main/assi_8.ipynb)
 
 [lab-9] (https://github.com/siddartha42/ASSIGNMENT/blob/main/Assignment9.ipynb)
+
+[lab-10] ()
